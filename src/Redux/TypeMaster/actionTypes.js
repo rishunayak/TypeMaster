@@ -1,0 +1,5 @@
+export const SET_CURRENT_KEY = 'SET_CURRENT_KEY';
+export const SET_TIMER="SET_TIMER"
+export const SET_TYPE="SET_TYPE"
+export const SET_TOTAL_KEY="SET_TOTAL_KEY"
+export const SET_CORRECT_KEY="SET_CORRECT_KEY"
